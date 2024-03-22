@@ -1,4 +1,4 @@
-# Rtos Project code 
+# Rtos 
 
 **1. Problem**
 Your program needs to satisfy the same functional and real-time requirements, i.e.
