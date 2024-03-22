@@ -1,7 +1,7 @@
 # Rtos Project code 
 
 **1. Problem**
-Your program needs to satisfy the same functional and real-time requirements of assignment #2, i.e.
+Your program needs to satisfy the same functional and real-time requirements, i.e.
 it needs to perform the same (hard RT) tasks at the same rates.
 In addition, your program should satisfy the following additional requirements:
 1. Monitor one digital input - to be connected to a pushbutton. Make sure the input is
